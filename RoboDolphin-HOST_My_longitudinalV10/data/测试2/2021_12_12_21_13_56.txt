@@ -1,0 +1,1 @@
+TIME      YAW_ANGLE      YAW_ANGLEVELOCITY      amp      freq      offset      

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="172.18.22.3">
+    <serverData>
+      <paths name="172.18.22.3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/yanshuaizheng2018/Code/uuirn-hd" local="$USER_HOME$/PycharmProjects/UUIRN-HD" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
